@@ -133,7 +133,7 @@ h3 { font-size: 1.55rem; }
   overflow: hidden;
   padding: 92px 0 70px;
   background:
-    linear-gradient(135deg, rgba(84, 19, 23, 0.94), rgba(122, 31, 36, 0.88)),
+    linear-gradient(135deg, rgba(84, 19, 23, 0.6), rgba(122, 31, 36, 0.5)),
     radial-gradient(circle at top right, rgba(239, 227, 211, 0.24), transparent 30%);
   color: white;
 }
