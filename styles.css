@@ -455,10 +455,6 @@ textarea { min-height: 150px; resize: vertical; }
   .navbar,
   .footer-top,
   .hero-actions,
-  .nav-links {
-    flex-direction: column;
-    align-items: flex-start;
-  }
   .hero-grid,
   .grid-2,
   .grid-3,
