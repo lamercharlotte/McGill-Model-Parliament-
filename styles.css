@@ -162,7 +162,7 @@ h3 { font-size: 1.55rem; }
 }
 .hero-logo {
   background: rgba(255,255,255,0.96);
-  border-radius: 50%;
+  border-radius: 16%;
   width: min(360px, 100%);
   padding: 18px;
   margin-left: auto;
